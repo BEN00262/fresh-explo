@@ -1,11 +1,2 @@
-# fresh project
-
-### Usage
-
-Start the project:
-
-```
-deno task start
-```
-
-This will watch the project directory and restart as necessary.
+# fresh deno first time exploration
+[Demo](https://00262-fresh-explo-mebkkwx87m20.deno.dev/)
